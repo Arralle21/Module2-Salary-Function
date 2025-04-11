@@ -31,6 +31,8 @@
 - Python: `pandas`, `zipfile` (included in standard library)  
 - R: Base R only (no additional packages needed)  
 
+### **Data Source**  
+- You can download the data set from kaggle : https://www.kaggle.com/code/itshorus/sf-salary
 
 
 _______________________________________________________________________________________________________________________________________
