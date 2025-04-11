@@ -29,7 +29,10 @@
 
 ### **Dependencies**  
 - Python: `pandas`, `zipfile` (included in standard library)  
-- R: Base R only (no additional packages needed)  
+- R: Base R only (no additional packages needed)
+
+### **Data Source**  
+- You can download the dataset from kaggale : https://www.kaggle.com/code/itshorus/sf-salary
 
 
 
